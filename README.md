@@ -9,7 +9,7 @@
 
 PhoenixFS is a powerful and user-friendly file recovery system designed to salvage deleted or lost files from raw disk space. Utilizing advanced file carving techniques, it scans for known file signatures (magic numbers) to reconstruct files that are no longer indexed by the operating system's file system. Whether you've accidentally deleted important documents, photos, or videos, PhoenixFS aims to bring them back from the digital abyss. It features a modern, intuitive Graphical User Interface (GUI) built with CustomTkinter, making complex recovery tasks accessible to everyone.
 
-![PhoenixFS](https://raw.githubusercontent.com/LMLK-seal/PhoenixFS/refs/heads/main/PhoenixFS-Img.jpg?token=GHSAT0AAAAAADHINFWNXRJ7T44DTZAMWVH62D6VG7A)
+![PhoenixFS](https://raw.githubusercontent.com/LMLK-seal/PhoenixFS/refs/heads/main/PhoenixFS-Img.jpg)
 
 ## ✨ Features
 
