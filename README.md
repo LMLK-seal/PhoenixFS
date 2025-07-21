@@ -1,11 +1,11 @@
 # PhoenixFS ✨ Advanced File Recovery System
 
-![PhoenixFS](https://raw.githubusercontent.com/LMLK-seal/PhoenixFS/refs/heads/main/PhoenixFS-logo.png)
-
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![GUI](https://img.shields.io/badge/interface-GUI-brightgreen.svg)
 ![Version](https://img.shields.io/badge/version-1.3.1-orange.svg)
+
+![PhoenixFS](https://raw.githubusercontent.com/LMLK-seal/PhoenixFS/refs/heads/main/PhoenixFS-logo.png)
 
 ## Description
 
